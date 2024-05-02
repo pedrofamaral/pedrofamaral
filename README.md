@@ -13,8 +13,11 @@ Meu nome é Pedro Henrique Franco Moreira Amaral, sou estudante de graduação n
 </a>
 <br>
 - 👀 Estou interessado em criar códigos para me divertir.
+<br>
 - 🌱 Atualmente, estou aprendendo novas linguagens de programação.
+<br>
 - 💞️ Estou procurando colaborar em projetos interessantes.
+<br>
 - 📫 Você pode me encontrar pelo e-mail: pedrofamaral@yahoo.com.br.
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se quiser colaborar ou apenas bater um papo sobre programação!
