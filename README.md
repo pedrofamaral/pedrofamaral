@@ -11,6 +11,7 @@ Meu nome é Pedro Henrique Franco Moreira Amaral, sou estudante de graduação n
 <a href="https://www.linkedin.com/in/pedro-amaral-220882271/">
   <img height = 36.7 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br>
 - 👀 Estou interessado em criar códigos para me divertir.
 - 🌱 Atualmente, estou aprendendo novas linguagens de programação.
 - 💞️ Estou procurando colaborar em projetos interessantes.
