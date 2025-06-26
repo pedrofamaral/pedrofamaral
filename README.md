@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-amaral-220882271/)](https://www.linkedin.com/in/pedro-amaral-220882271/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrofamaral/)](https://www.instagram.com/pedrofamaral/)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561199101877277/)](https://steamcommunity.com/profiles/76561199101877277/)
-[![Email](https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrofamaral@yahoo.com.br)
+[![Email](https://img.shields.io/badge/-Email-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:amaralpedro358@gmail.com)
 
 ---
 
